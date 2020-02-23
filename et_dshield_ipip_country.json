@@ -1,0 +1,26 @@
+[
+	{
+		"code": "BG",
+		"value": 1024
+	},
+	{
+		"code": "LV",
+		"value": 256
+	},
+	{
+		"code": "MD",
+		"value": 256
+	},
+	{
+		"code": "NL",
+		"value": 3072
+	},
+	{
+		"code": "RO",
+		"value": 256
+	},
+	{
+		"code": "US",
+		"value": 256
+	}
+]

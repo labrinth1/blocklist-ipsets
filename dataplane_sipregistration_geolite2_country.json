@@ -1,0 +1,30 @@
+[
+	{
+		"code": "CA",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 4
+	},
+	{
+		"code": "DE",
+		"value": 5
+	},
+	{
+		"code": "FR",
+		"value": 13
+	},
+	{
+		"code": "NL",
+		"value": 16
+	},
+	{
+		"code": "PS",
+		"value": 4
+	},
+	{
+		"code": "US",
+		"value": 10
+	}
+]
